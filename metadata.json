@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "Sai sempre come sarà la tua giornata. Temperatura, umidità, qualità dell'aria, vento, indice UV e previsioni orarie in un colpo d'occhio. Il meteo che ti parla.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
